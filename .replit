@@ -1,2 +1,4 @@
 language = "nodejs"
 run = "node discord_bot.js"
+
+//run
